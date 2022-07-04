@@ -11,7 +11,7 @@ max_steps: 5000
 batch_size: 16
 
 num_neighbors: 7
-dataset_name: "glovo"
+dataset_name: "/home/dima/glovo_dataset/photos/imgs"
 
 # Used if dataset_name is "directory"
 dir_dataset_name: ~
